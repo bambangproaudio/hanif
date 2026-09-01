@@ -1,0 +1,10 @@
+{
+  "name": "Bambang Mixer Audio Pro",
+  "description": "Professional web DSP audio mixing workstation with zero-latency microphone routing, YouTube karaoke engine, multi-band parametric EQ, FX rack, soundboard, spectrum analyzer, and master recording.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
